@@ -30,6 +30,7 @@ Users should be able to:
 - Navigate the slider using either their mouse/trackpad or keyboard
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
 ### Screenshot
 
 <img src="./src/assets/FireShot Capture 187 - Room Homepage - 127.0.0.1.png">
@@ -39,8 +40,9 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution URL](https://github.com/ijayhub/room-homepage)
+
+- [Live Site URL](https://hompage-room.netlify.app)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
